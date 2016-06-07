@@ -1,4 +1,4 @@
-**Materials used for initial workshop. Now superceded by [https://github.com/data-lessons/library-openrefine](https://github.com/data-lessons/library-openrefine)**
+**NOTE: materials used for initial workshop. Now superceded by [https://github.com/data-lessons/library-openrefine](https://github.com/data-lessons/library-openrefine)**
 
 ## Library Carpentry. Week Four: Open Refine
 
