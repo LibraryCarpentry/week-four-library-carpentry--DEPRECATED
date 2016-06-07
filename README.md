@@ -1,3 +1,5 @@
+**NOTE: materials used for initial workshop. Now superseded by [OpenRefine lesson for librarians](https://github.com/data-lessons/library-openrefine)**
+
 ## Library Carpentry. Week Four: Open Refine
 
 ###Install for week four
